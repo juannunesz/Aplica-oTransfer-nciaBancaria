@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/juan/AppBancario/AppBancario.csproj",
+      "projectUniqueName": "/home/juan/git/AppBancario/AppBancario.csproj",
       "projectName": "AppBancario",
-      "projectPath": "/home/juan/AppBancario/AppBancario.csproj",
+      "projectPath": "/home/juan/git/AppBancario/AppBancario.csproj",
       "packagesPath": "/home/juan/.nuget/packages/",
-      "outputPath": "/home/juan/AppBancario/obj/",
+      "outputPath": "/home/juan/git/AppBancario/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/juan/.nuget/NuGet/NuGet.Config"

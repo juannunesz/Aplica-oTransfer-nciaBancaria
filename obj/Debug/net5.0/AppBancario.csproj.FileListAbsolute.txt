@@ -1,0 +1,16 @@
+/home/juan/git/AppBancario/bin/Debug/net5.0/AppBancario
+/home/juan/git/AppBancario/bin/Debug/net5.0/AppBancario.deps.json
+/home/juan/git/AppBancario/bin/Debug/net5.0/AppBancario.runtimeconfig.json
+/home/juan/git/AppBancario/bin/Debug/net5.0/AppBancario.runtimeconfig.dev.json
+/home/juan/git/AppBancario/bin/Debug/net5.0/AppBancario.dll
+/home/juan/git/AppBancario/bin/Debug/net5.0/ref/AppBancario.dll
+/home/juan/git/AppBancario/bin/Debug/net5.0/AppBancario.pdb
+/home/juan/git/AppBancario/obj/Debug/net5.0/AppBancario.csprojAssemblyReference.cache
+/home/juan/git/AppBancario/obj/Debug/net5.0/AppBancario.GeneratedMSBuildEditorConfig.editorconfig
+/home/juan/git/AppBancario/obj/Debug/net5.0/AppBancario.AssemblyInfoInputs.cache
+/home/juan/git/AppBancario/obj/Debug/net5.0/AppBancario.AssemblyInfo.cs
+/home/juan/git/AppBancario/obj/Debug/net5.0/AppBancario.csproj.CoreCompileInputs.cache
+/home/juan/git/AppBancario/obj/Debug/net5.0/AppBancario.dll
+/home/juan/git/AppBancario/obj/Debug/net5.0/ref/AppBancario.dll
+/home/juan/git/AppBancario/obj/Debug/net5.0/AppBancario.pdb
+/home/juan/git/AppBancario/obj/Debug/net5.0/AppBancario.genruntimeconfig.cache

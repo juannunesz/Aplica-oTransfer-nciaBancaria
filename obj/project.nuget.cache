@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JZ7P4Hjv/Yx142RTFbd/MvevHLMMjDC213HjaWs3hGQjgO1hOzzMsHcrSYmqidphrkPhPdFW8zq5deiFd5l78A==",
+  "dgSpecHash": "t1JuTW29bn/C0SX4+2RYN3CipGm8J8ajcIxVLFk7JxBZkFaBfJprBXnOM33cvSnaUBFwt2gneaIjH60niPQ09Q==",
   "success": true,
-  "projectFilePath": "/home/juan/AppBancario/AppBancario.csproj",
+  "projectFilePath": "/home/juan/git/AppBancario/AppBancario.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
